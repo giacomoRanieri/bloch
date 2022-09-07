@@ -1,4 +1,4 @@
-Demo: https://klezm.github.io/bloch
+Demo: https://giacomoRanieri.github.io/bloch
 
 # What is this?
 
@@ -21,7 +21,7 @@ or `ncu; npm install; npm run start` (for checking latest packages as well)
 
 ## Contribute or play with the code
 
-https://stackblitz.com/github/klezm/bloch
+https://stackblitz.com/github/giacomoRanieri/bloch
 
 ## Running the tests
 
